@@ -1,7 +1,7 @@
 # CursoFullStack
 
 ## Descripción
-Este es un proyecto increíble que hace cosas asombrosas.
+Este es un proyecto para la construccion de un sitio web
 
 ## Instalación
 1. Clona este repositorio.
